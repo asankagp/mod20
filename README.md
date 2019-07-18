@@ -5,7 +5,7 @@ Project website: https://asankagp.github.io/mod20/
 
 ### How to run the code:
 
-1. Download the FLOW and RGB data [here](https://drive.google.com/open?id=1MXcBfKPbtOoEX_j6vGkopBKnyktpDh0l), and extract all ".mat" files to "data" folder.
+1. Download the FLOW and RGB data [here](https://drive.google.com/open?id=1MXcBfKPbtOoEX_j6vGkopBKnyktpDh0l)(5GB), and extract all ".mat" files to "data" folder.
 
 2. Run "demo_krp_mod20.m".
 
