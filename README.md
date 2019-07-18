@@ -1,11 +1,11 @@
-A Multi-viewpoint Outdoor Dataset for Human Action Recognition
+# MOD20 - A Multi-viewpoint Outdoor Dataset for Human Action Recognition
 
 Project website: https://asankagp.github.io/mod20/
 
 
-How to run the code:
+### How to run the code:
 
-1. Download the FLOW and RGB data (https://drive.google.com/open?id=1MXcBfKPbtOoEX_j6vGkopBKnyktpDh0l) and extract all ".mat" files to "data" folder.
+1. Download the FLOW and RGB data [here](https://drive.google.com/open?id=1MXcBfKPbtOoEX_j6vGkopBKnyktpDh0l), and extract all ".mat" files to "data" folder.
 
 2. Run "demo_krp_mod20.m".
 
